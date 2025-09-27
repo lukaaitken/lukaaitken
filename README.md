@@ -1,6 +1,7 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Luka!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1ABC9C&vCenter=true&lines=👋+Hi,+I'm+Luka!)](https://git.io/typing-svg)
+
 💻 Engineer-in-Training (EIT) in British Columbia with a **Bachelor of Engineering in Software Engineering** from [Thompson Rivers University](https://www.tru.ca/programs/catalogue/bachelor-software-engineering.html) <br/>
 🚀 Passionate about software development, web applications, and building meaningful projects <br/>
 📚 Always learning and exploring new technologies <br/>
