@@ -1,4 +1,3 @@
-<!-- Level 3: Add custom code -->
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=1ABC9C&vCenter=true&repeat=false&lines=👋+Hi,+I'm+Luka!)](https://git.io/typing-svg)
 
@@ -6,12 +5,11 @@
 🚀 Passionate about software development, web applications, and building meaningful projects <br/>
 📚 Always learning and exploring new technologies <br/>
 
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=lukaaitken&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukaaitken&layout=compact)
+
 # 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,5 +34,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-<!-- END YOUTUBE-CARDS -->
