@@ -1,8 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Luka!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Software Engineering](https://www.tru.ca/programs/catalogue/bachelor-software-engineering.html) at Thompson Rivers University, Canada<br/>
+💻 Engineer-in-Training (EIT) in British Columbia with a **Bachelor of Engineering in Software Engineering** from [Thompson Rivers University](https://www.tru.ca/programs/catalogue/bachelor-software-engineering.html) <br/>
+🚀 Passionate about software development, web applications, and building meaningful projects <br/>
+📚 Always learning and exploring new technologies <br/>
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
